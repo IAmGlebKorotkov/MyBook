@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6A091367-B6CD-4A11-8D1D-D8CA2A8E11B6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "9DBCCDEF-8F94-4AB8-9767-21F291D2C931"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "/"
+            moduleName = "">
+            <Locations>
+               <Location
+                  uuid = "9DBCCDEF-8F94-4AB8-9767-21F291D2C931 - d8afaa1036bef2bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GRDBInternal./ infix(GRDBInternal.SQLExpressible, GRDBInternal.SQLSpecificExpressible) -&gt; GRDBInternal.SQLExpression"
+                  moduleName = "GRDBInternal"
+                  usesParentBreakpointCondition = "Yes">
+               </Location>
+               <Location
+                  uuid = "9DBCCDEF-8F94-4AB8-9767-21F291D2C931 - 448bbc5a6660ef8c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GRDBInternal./ infix(GRDBInternal.SQLSpecificExpressible, GRDBInternal.SQLExpressible) -&gt; GRDBInternal.SQLExpression"
+                  moduleName = "GRDBInternal"
+                  usesParentBreakpointCondition = "Yes">
+               </Location>
+               <Location
+                  uuid = "9DBCCDEF-8F94-4AB8-9767-21F291D2C931 - 6d6cdb6d28525f68"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GRDBInternal./ infix(GRDBInternal.SQLSpecificExpressible, GRDBInternal.SQLSpecificExpressible) -&gt; GRDBInternal.SQLExpression"
+                  moduleName = "GRDBInternal"
+                  usesParentBreakpointCondition = "Yes">
+               </Location>
+               <Location
+                  uuid = "9DBCCDEF-8F94-4AB8-9767-21F291D2C931 - 697025f28db8276b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GRDBInternal./ infix&lt;&#x3c4;_0_0&gt;(GRDBInternal.SQLExpressible, GRDBInternal.AssociationAggregate&lt;&#x3c4;_0_0&gt;) -&gt; GRDBInternal.AssociationAggregate&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "GRDBInternal"
+                  usesParentBreakpointCondition = "Yes">
+               </Location>
+               <Location
+                  uuid = "9DBCCDEF-8F94-4AB8-9767-21F291D2C931 - 30dc4965274c3c2a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GRDBInternal./ infix&lt;&#x3c4;_0_0&gt;(GRDBInternal.AssociationAggregate&lt;&#x3c4;_0_0&gt;, GRDBInternal.SQLExpressible) -&gt; GRDBInternal.AssociationAggregate&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "GRDBInternal"
+                  usesParentBreakpointCondition = "Yes">
+               </Location>
+               <Location
+                  uuid = "9DBCCDEF-8F94-4AB8-9767-21F291D2C931 - d8d27f904027d9d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GRDBInternal./ infix&lt;&#x3c4;_0_0&gt;(GRDBInternal.AssociationAggregate&lt;&#x3c4;_0_0&gt;, GRDBInternal.AssociationAggregate&lt;&#x3c4;_0_0&gt;) -&gt; GRDBInternal.AssociationAggregate&lt;&#x3c4;_0_0&gt;"
+                  moduleName = "GRDBInternal"
+                  usesParentBreakpointCondition = "Yes">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

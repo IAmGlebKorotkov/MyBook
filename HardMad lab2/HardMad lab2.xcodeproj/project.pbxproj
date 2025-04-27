@@ -1,0 +1,726 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		9F2087752D8FC72A00DF7157 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9F611D932D8372BB00EFEE3D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9F611D9A2D8372BB00EFEE3D;
+			remoteInfo = "HardMad lab2";
+		};
+		9F611DAC2D8372C700EFEE3D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9F611D932D8372BB00EFEE3D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9F611D9A2D8372BB00EFEE3D;
+			remoteInfo = "HardMad lab2";
+		};
+		9F611DB62D8372C700EFEE3D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9F611D932D8372BB00EFEE3D /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9F611D9A2D8372BB00EFEE3D;
+			remoteInfo = "HardMad lab2";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		9F20876F2D8FC72A00DF7157 /* SignInUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SignInUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		9F611D9B2D8372BB00EFEE3D /* HardMad lab2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "HardMad lab2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9F611DAB2D8372C700EFEE3D /* HardMad lab2Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "HardMad lab2Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9F611DB52D8372C700EFEE3D /* HardMad lab2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "HardMad lab2UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		9F2086402D8CBACB00DF7157 /* Exceptions for "HardMad lab2" folder in "HardMad lab2" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Extension/SearchExtension.swift,
+			);
+			target = 9F611D9A2D8372BB00EFEE3D /* HardMad lab2 */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
+		9F2086412D8CBACB00DF7157 /* Exceptions for "HardMad lab2" folder in "Copy Bundle Resources" phase from "HardMad lab2" target */ = {
+			isa = PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet;
+			buildPhase = 9F611D992D8372BB00EFEE3D /* Resources */;
+			membershipExceptions = (
+				Extension/SearchExtension.swift,
+			);
+		};
+/* End PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		9F2087702D8FC72A00DF7157 /* SignInUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = SignInUITests;
+			sourceTree = "<group>";
+		};
+		9F611D9D2D8372BB00EFEE3D /* HardMad lab2 */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				9F2086402D8CBACB00DF7157 /* Exceptions for "HardMad lab2" folder in "HardMad lab2" target */,
+				9F2086412D8CBACB00DF7157 /* Exceptions for "HardMad lab2" folder in "Copy Bundle Resources" phase from "HardMad lab2" target */,
+			);
+			path = "HardMad lab2";
+			sourceTree = "<group>";
+		};
+		9F611DAE2D8372C700EFEE3D /* HardMad lab2Tests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "HardMad lab2Tests";
+			sourceTree = "<group>";
+		};
+		9F611DB82D8372C700EFEE3D /* HardMad lab2UITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "HardMad lab2UITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		9F20876C2D8FC72A00DF7157 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9F611D982D8372BB00EFEE3D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9F611DA82D8372C700EFEE3D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9F611DB22D8372C700EFEE3D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		9F611D922D8372BB00EFEE3D = {
+			isa = PBXGroup;
+			children = (
+				9F611D9D2D8372BB00EFEE3D /* HardMad lab2 */,
+				9F611DAE2D8372C700EFEE3D /* HardMad lab2Tests */,
+				9F611DB82D8372C700EFEE3D /* HardMad lab2UITests */,
+				9F2087702D8FC72A00DF7157 /* SignInUITests */,
+				9F611D9C2D8372BB00EFEE3D /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		9F611D9C2D8372BB00EFEE3D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				9F611D9B2D8372BB00EFEE3D /* HardMad lab2.app */,
+				9F611DAB2D8372C700EFEE3D /* HardMad lab2Tests.xctest */,
+				9F611DB52D8372C700EFEE3D /* HardMad lab2UITests.xctest */,
+				9F20876F2D8FC72A00DF7157 /* SignInUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		9F20876E2D8FC72A00DF7157 /* SignInUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9F2087772D8FC72A00DF7157 /* Build configuration list for PBXNativeTarget "SignInUITests" */;
+			buildPhases = (
+				9F20876B2D8FC72A00DF7157 /* Sources */,
+				9F20876C2D8FC72A00DF7157 /* Frameworks */,
+				9F20876D2D8FC72A00DF7157 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				9F2087762D8FC72A00DF7157 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				9F2087702D8FC72A00DF7157 /* SignInUITests */,
+			);
+			name = SignInUITests;
+			packageProductDependencies = (
+			);
+			productName = SignInUITests;
+			productReference = 9F20876F2D8FC72A00DF7157 /* SignInUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+		9F611D9A2D8372BB00EFEE3D /* HardMad lab2 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9F611DBF2D8372C700EFEE3D /* Build configuration list for PBXNativeTarget "HardMad lab2" */;
+			buildPhases = (
+				9F611D972D8372BB00EFEE3D /* Sources */,
+				9FE4D4042D9231490001DB5D /* Run Script */,
+				9F611D982D8372BB00EFEE3D /* Frameworks */,
+				9F611D992D8372BB00EFEE3D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				9F611D9D2D8372BB00EFEE3D /* HardMad lab2 */,
+			);
+			name = "HardMad lab2";
+			packageProductDependencies = (
+			);
+			productName = "HardMad lab2";
+			productReference = 9F611D9B2D8372BB00EFEE3D /* HardMad lab2.app */;
+			productType = "com.apple.product-type.application";
+		};
+		9F611DAA2D8372C700EFEE3D /* HardMad lab2Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9F611DC22D8372C700EFEE3D /* Build configuration list for PBXNativeTarget "HardMad lab2Tests" */;
+			buildPhases = (
+				9F611DA72D8372C700EFEE3D /* Sources */,
+				9F611DA82D8372C700EFEE3D /* Frameworks */,
+				9F611DA92D8372C700EFEE3D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				9F611DAD2D8372C700EFEE3D /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				9F611DAE2D8372C700EFEE3D /* HardMad lab2Tests */,
+			);
+			name = "HardMad lab2Tests";
+			packageProductDependencies = (
+			);
+			productName = "HardMad lab2Tests";
+			productReference = 9F611DAB2D8372C700EFEE3D /* HardMad lab2Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		9F611DB42D8372C700EFEE3D /* HardMad lab2UITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9F611DC52D8372C700EFEE3D /* Build configuration list for PBXNativeTarget "HardMad lab2UITests" */;
+			buildPhases = (
+				9F611DB12D8372C700EFEE3D /* Sources */,
+				9F611DB22D8372C700EFEE3D /* Frameworks */,
+				9F611DB32D8372C700EFEE3D /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				9F611DB72D8372C700EFEE3D /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				9F611DB82D8372C700EFEE3D /* HardMad lab2UITests */,
+			);
+			name = "HardMad lab2UITests";
+			packageProductDependencies = (
+			);
+			productName = "HardMad lab2UITests";
+			productReference = 9F611DB52D8372C700EFEE3D /* HardMad lab2UITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		9F611D932D8372BB00EFEE3D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1620;
+				TargetAttributes = {
+					9F20876E2D8FC72A00DF7157 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 9F611D9A2D8372BB00EFEE3D;
+					};
+					9F611D9A2D8372BB00EFEE3D = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					9F611DAA2D8372C700EFEE3D = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 9F611D9A2D8372BB00EFEE3D;
+					};
+					9F611DB42D8372C700EFEE3D = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 9F611D9A2D8372BB00EFEE3D;
+					};
+				};
+			};
+			buildConfigurationList = 9F611D962D8372BB00EFEE3D /* Build configuration list for PBXProject "HardMad lab2" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 9F611D922D8372BB00EFEE3D;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 9F611D9C2D8372BB00EFEE3D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				9F611D9A2D8372BB00EFEE3D /* HardMad lab2 */,
+				9F611DAA2D8372C700EFEE3D /* HardMad lab2Tests */,
+				9F611DB42D8372C700EFEE3D /* HardMad lab2UITests */,
+				9F20876E2D8FC72A00DF7157 /* SignInUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		9F20876D2D8FC72A00DF7157 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9F611D992D8372BB00EFEE3D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9F611DA92D8372C700EFEE3D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9F611DB32D8372C700EFEE3D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		9FE4D4042D9231490001DB5D /* Run Script */ = {
+			isa = PBXShellScriptBuildPhase;
+			alwaysOutOfDate = 1;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			name = "Run Script";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "if [[ \"$(uname -m)\" == arm64 ]]\nthen\n    export PATH=\"/opt/homebrew/bin:$PATH\"\nfi\n\nif command -v swiftlint >/dev/null 2>&1\nthen\n    swiftlint lint --config swiftlintcfg.yml .\nelse\n    echo \"warning: `swiftlint` command not found - See https://github.com/realm/SwiftLint#installation for installation instructions.\"\nfi\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		9F20876B2D8FC72A00DF7157 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9F611D972D8372BB00EFEE3D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9F611DA72D8372C700EFEE3D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9F611DB12D8372C700EFEE3D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		9F2087762D8FC72A00DF7157 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9F611D9A2D8372BB00EFEE3D /* HardMad lab2 */;
+			targetProxy = 9F2087752D8FC72A00DF7157 /* PBXContainerItemProxy */;
+		};
+		9F611DAD2D8372C700EFEE3D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9F611D9A2D8372BB00EFEE3D /* HardMad lab2 */;
+			targetProxy = 9F611DAC2D8372C700EFEE3D /* PBXContainerItemProxy */;
+		};
+		9F611DB72D8372C700EFEE3D /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9F611D9A2D8372BB00EFEE3D /* HardMad lab2 */;
+			targetProxy = 9F611DB62D8372C700EFEE3D /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		9F2087782D8FC72A00DF7157 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = TDMHGP7XAD;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Gleb.SignInUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "HardMad lab2";
+			};
+			name = Debug;
+		};
+		9F2087792D8FC72A00DF7157 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = TDMHGP7XAD;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Gleb.SignInUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "HardMad lab2";
+			};
+			name = Release;
+		};
+		9F611DBD2D8372C700EFEE3D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		9F611DBE2D8372C700EFEE3D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		9F611DC02D8372C700EFEE3D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"HardMad lab2/Preview Content\"";
+				DEVELOPMENT_TEAM = TDMHGP7XAD;
+				ENABLE_PREVIEWS = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "HardMad-lab2-Info.plist";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Gleb.HardMad-lab2";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		9F611DC12D8372C700EFEE3D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"HardMad lab2/Preview Content\"";
+				DEVELOPMENT_TEAM = TDMHGP7XAD;
+				ENABLE_PREVIEWS = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "HardMad-lab2-Info.plist";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Gleb.HardMad-lab2";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		9F611DC32D8372C700EFEE3D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = TDMHGP7XAD;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Gleb.HardMad-lab2Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/HardMad lab2.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/HardMad lab2";
+			};
+			name = Debug;
+		};
+		9F611DC42D8372C700EFEE3D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = TDMHGP7XAD;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Gleb.HardMad-lab2Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/HardMad lab2.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/HardMad lab2";
+			};
+			name = Release;
+		};
+		9F611DC62D8372C700EFEE3D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = TDMHGP7XAD;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Gleb.HardMad-lab2UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "HardMad lab2";
+			};
+			name = Debug;
+		};
+		9F611DC72D8372C700EFEE3D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = TDMHGP7XAD;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Gleb.HardMad-lab2UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "HardMad lab2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		9F2087772D8FC72A00DF7157 /* Build configuration list for PBXNativeTarget "SignInUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9F2087782D8FC72A00DF7157 /* Debug */,
+				9F2087792D8FC72A00DF7157 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9F611D962D8372BB00EFEE3D /* Build configuration list for PBXProject "HardMad lab2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9F611DBD2D8372C700EFEE3D /* Debug */,
+				9F611DBE2D8372C700EFEE3D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9F611DBF2D8372C700EFEE3D /* Build configuration list for PBXNativeTarget "HardMad lab2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9F611DC02D8372C700EFEE3D /* Debug */,
+				9F611DC12D8372C700EFEE3D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9F611DC22D8372C700EFEE3D /* Build configuration list for PBXNativeTarget "HardMad lab2Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9F611DC32D8372C700EFEE3D /* Debug */,
+				9F611DC42D8372C700EFEE3D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9F611DC52D8372C700EFEE3D /* Build configuration list for PBXNativeTarget "HardMad lab2UITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9F611DC62D8372C700EFEE3D /* Debug */,
+				9F611DC72D8372C700EFEE3D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 9F611D932D8372BB00EFEE3D /* Project object */;
+}
